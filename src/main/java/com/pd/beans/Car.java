@@ -6,5 +6,6 @@ public class Car {
 	int carId;
 	double carPrice;
 	String carModel;
+	String addres;
 
 }
