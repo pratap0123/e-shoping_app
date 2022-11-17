@@ -7,5 +7,6 @@ public class Car {
 	double carPrice;
 	String carModel;
 	String addres;
+	Date date;
 
 }
